@@ -1,4 +1,4 @@
-<h4 align="center">Mobile Action Bootcamp Homework-3 Başak ER</h4>
+<h1 align="center">Mobile Action Bootcamp Homework-3 Başak ER</h1>
 
  <p align="center">
   📌 <a href="#project-details">Project Details</a> •
