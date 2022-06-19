@@ -1,10 +1,10 @@
 <h4 align="center">Mobile Action Bootcamp Homework-3 Başak ER</h4>
 
  <p align="center">
-  <a href="#project-details">Project Details</a> •
-  <a href="#swagger-screenshots">Swagger Screenshots</a> •
-  <a href="#user">User</a> •
-  <a href="#vehicle">Vehicle</a>
+  📌 <a href="#project-details">Project Details</a> •
+  📌 <a href="#swagger-screenshots">Swagger Screenshots</a> •
+  📌 <a href="#user">User</a> •
+  📌 <a href="#vehicle">Vehicle</a>
 </p>
 
 
@@ -40,7 +40,7 @@ Hiçbir controllerda persistence nesne kullanılmamalıdır. API pathlerine dikk
 ![25](https://user-images.githubusercontent.com/25417307/174491873-41a363eb-2180-4a01-9f62-4bdf47fe5281.png)
 
 
-### 🔻 User 🔻: 
+### User: 
 
 #### ♦️ Her kullanıcı, kullanıcı adı ve şifre belirleyerek sisteme kayıt olur.
 
@@ -138,7 +138,7 @@ Hiçbir controllerda persistence nesne kullanılmamalıdır. API pathlerine dikk
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
-### 🔻 Vehicle 🔻: 
+### Vehicle: 
 
 #### ♦️ Araç ekleme
 
